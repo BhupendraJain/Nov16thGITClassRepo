@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Nov 16th GIT Class Project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0"
+}
